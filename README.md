@@ -1,10 +1,3 @@
----
-title: README
-created: '2022-01-09T19:49:28.785Z'
-modified: '2022-01-09T19:50:35.524Z'
----
-
-# README
 
 # Bash 
 Bash stands for Bourne-Again SHell . Bash is a Unix shell and command language. It is widely available on various operating systems, and it is also the default command interpreter on most Linux systems
